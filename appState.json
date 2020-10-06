@@ -1,0 +1,71 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "d5d5bb99-9891-43c5-a050-72bb3a89d453": {
+        "id": "d5d5bb99-9891-43c5-a050-72bb3a89d453",
+        "parent": null,
+        "name": "induuuuuu528.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "induuuuuu528.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "induuuuuu528"
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "d5d5bb99-9891-43c5-a050-72bb3a89d453"
+    ],
+    "currentFileId": "d5d5bb99-9891-43c5-a050-72bb3a89d453",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.1.6",
+    "projectName": "induuuuuu528",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1601985554463
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "induuuuuu528",
+      "url": "https://github.com/Indunil1992/induuuuuu528"
+    }
+  }
+}
